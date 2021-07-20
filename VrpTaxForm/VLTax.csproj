@@ -62,7 +62,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CarType.cs" />
     <Compile Include="VLTaxForm.cs">
       <SubType>Form</SubType>
     </Compile>
